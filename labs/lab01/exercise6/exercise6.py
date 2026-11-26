@@ -1,1 +1,2 @@
-# Lab 01 Exercise 6: Leap Year Detector
+def is_leap_year(year) :
+    
